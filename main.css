@@ -1,0 +1,29 @@
+.head-title{
+    background-color: black;
+    color: rgb(190, 182, 182);
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+}
+.create-offer{
+    
+    background-color: rgb(12, 10, 10);
+}
+.login ul li{
+    margin-top: 20px;
+    font-size: 20px;
+  
+    display: inline-block;
+    cursor: pointer;
+}
+.login ul li img{
+    width: 40px;
+    margin-left: 5px;
+    transform: translateY(-5px);
+}
+.change-img{
+    height: 100%;
+    width: 100%;
+}
